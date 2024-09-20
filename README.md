@@ -1,9 +1,9 @@
 # 3rd sem MiniProject, Jintu and Debashree
 
-<b>Overview: </b><i>An app to convert between different units of 
+<b><u>Overview</u>: </b><i>An app to convert between different units of 
 measurement. </i>
  
-<b>Steps:</b>
+<b><u>Steps</u>:</b>
 <i>Design the unit conversion interface with HTML and CSS. 
 Implement unit conversion logic with JavaScript. 
 Fetch conversion factors or provide them locally. 
